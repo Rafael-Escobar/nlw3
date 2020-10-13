@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" src="print_screen/happy.jpg.png" height="100px" />
+    <img alt="Happy" src="print_screen/happy.jpg" height="100px" />
     <br>Next Level Week #3<br/>
 </h1>
 
